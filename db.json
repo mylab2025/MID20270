@@ -1,0 +1,22 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "SWITCHING REGULATOR (BUCK-1A)",
+        "PN": "LM2675M-ADJ",
+        "MF": "NATIONAL SEMICONDUCTOR"
+      },
+      "MID": "MID20270",
+      "MD": "LM2675M-ADJ is Step Down Switching Regulator with High Efficiency and wide input voltage of 8V to 40V and  Adjustable version output voltage range: 1.21V to 37V. || Design Ref: TBA || Required MIDs: TBA.",
+      "MT": "Electronic Comp.",
+      "MQNT": 4,
+      "MQATG": "#CLASS1",
+      "ML": "102",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20270%2Fmain%2FLM2675M-ADJ-NOPB-National-Semiconductor.pdf",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20270/main/WhatsApp Image 2025-04-05 at 7.37.29 PM.jpeg"
+      ]
+    }
+  ]
+}
