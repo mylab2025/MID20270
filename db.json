@@ -7,7 +7,7 @@
         "MF": "NATIONAL SEMICONDUCTOR"
       },
       "MID": "MID20270",
-      "MD": "LM2675M-ADJ is Step Down Switching Regulator with High Efficiency and wide input voltage of 8V to 40V and  Adjustable version output voltage range: 1.21V to 37V. || Design Ref: N5 || Required MIDs: TBA.",
+      "MD": "LM2675M-ADJ is Step Down Switching Regulator with High Efficiency and wide input voltage of 8V to 40V and  Adjustable version output voltage range: 1.21V to 37V. || Design Ref: N5 || Required MIDs: MID20274 (D150) .",
       "MT": "Electronic Comp.",
       "MQNT": 4,
       "MQATG": "#CLASS1",
